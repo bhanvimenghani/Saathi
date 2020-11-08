@@ -23,7 +23,7 @@ A lot of factors such as **Allergic items, Preservatives, Expiry date** which ca
 
 + No personalized results
 
-## That's the reason Smart Lense is here :
+## That's the reason Saathi is here :
 
 In this interactive app, we have taken great care of the problem faced by Visually Impaired people and addressed all the issues related to them. 
 

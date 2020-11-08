@@ -23,7 +23,7 @@ A lot of factors such as **Allergic items, Preservatives, Expiry date** which ca
 
 + No personalized results
 
-## That's the reason SAATHI is here :
+## That's the reason Smart Lense is here :
 
 In this interactive app, we have taken great care of the problem faced by Visually Impaired people and addressed all the issues related to them. 
 
@@ -77,9 +77,8 @@ In this way, it can assist them in finding the suitable food items whenever they
 
 Ankita Saloni    -   [saloniankita](https://www.linkedin.com/in/saloniankita/)
 
-Akanksha Singh   -  [akanksha1212](https://www.linkedin.com/in/akanksha1212/)
+Bhanvi Menghani   -  [bhanvimenghani](https://www.linkedin.com/in/bhanvi-menghani/)
 
-Sayali Ingle     -   [sayali-ingle](https://www.linkedin.com/in/sayali-ingle-3194251b8/)
+Irfan Aadil       -   [irfanadil04](https://www.linkedin.com/in/irfanadil04/)
 
-Shivani Susarla  -   [shivani-susarla](https://www.linkedin.com/in/shivani-susarla-240744186/)
 
